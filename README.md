@@ -1,7 +1,7 @@
 # PTEVocab
 
 | Login Page  |  Note List    | Note View   |  Exam Result    | Profile |
-| -------------------------- | -------------------------- | -------------------------- | -------------------------- |   |
+| ---------- | ------------- | -------------- | ------------------- | ----- |
 | ![](/docs/images/login/main.png)  |  ![](/docs/images/note/columns.png)  | ![](/docs/images/note/play.png)  | ![](/docs/images/exam/result.png) | ![](/docs/images/exam/profileExam.png)  |
 | Support Google & Facebook Auth | User-Custom Note Cover | Flashcard design Vocabulary List | Mock Exam Feature per note| Basic user profile view|
 
