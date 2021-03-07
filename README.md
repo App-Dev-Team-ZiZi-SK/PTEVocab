@@ -1,5 +1,10 @@
 # PTEVocab
 
+| Login Page  |  Note List    | Note View   |  Exam Result    | Profile |
+| -------------------------- | -------------------------- | -------------------------- | -------------------------- |   |
+| ![](/docs/images/login/main.png)  |  ![](/docs/images/note/columns.png)  | ![](/docs/images/note/play.png)  | ![](/docs/images/exam/result.png) | ![](/docs/images/exam/profileExam.png)  |
+| Support Google & Facebook Auth | User-Custom Note Cover | Flashcard design Vocabulary List | Mock Exam Feature per note| Basic user profile view|
+
 ## Contributors
 
 | ![qqskda](https://avatars.githubusercontent.com/u/27459480?s=460&u=1ddee5601cabb22d1ed5859157212a8b5650981b&v=4) | ![dd6679](https://avatars.githubusercontent.com/u/35446851?s=460&v=4)
@@ -19,6 +24,7 @@
   - Authentication
   - DynamoDB
   - S3
+- Use Google Text To Speech (Support Voice Options)
 - Use Realm Swift to minimize traffic with its backend server
 - Live (upon needs) backup on backend server
 - Support iphone (currently).
