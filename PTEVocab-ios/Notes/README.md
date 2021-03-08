@@ -25,6 +25,6 @@
 - Can stop/pause exam only during the Preparation Mode.
 
 | Exam: Main View | Exam: Setting Controller  |  Exam: Typing Mode       |  Exam: Result       |  Profile: Main View  |
-| -------------------------- | -------------------------- | -------------------------- | -------------------------- |    |
+| ---------------- | ---------------------- | -------------------------- | --------------------- | ------------ |
 | ![](/docs/images/exam/main.png)  | ![](/docs/images/exam/setting.png)  |  ![](/docs/images/exam/type.png) | ![](/docs/images/exam/result.png) |  ![](/docs/images/exam/profileExam.png)   |
-| Give brief information about settings | Can change settings | Types the answer in the textfield | Exam Result | Show user data statistics, and basic user profile
+| Give brief information about settings | Can change settings | Types the answer in the textfield | Exam Result | Show user data statistics, and basic user profile |
