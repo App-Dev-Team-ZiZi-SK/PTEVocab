@@ -28,7 +28,7 @@ _Development Period: 25 Jan - 8 Mar 2021_
 
 ## Develop Environment
 
-![SWIFT](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT5&label=&color=FA7343&labelColor=000000) ![SwiftUI](https://img.shields.io/badge/use-swiftui-blue.svg?style=for-the-badge) ![AMPLIFY](https://img.shields.io/badge/use-Amplify_Ios-orange.svg?style=for-the-badge) ![Xcode](https://img.shields.io/badge/Xcode-12.4-blue.svg?style=for-the-badge) ![TTS](https://img.shields.io/badge/use-Google_Cloud_Text_To_Speech-blue.svg?style=for-the-badge) [![license](https://img.shields.io/github/license/sgr-ksmt/FireTodo.svg?style=for-the-badge)](https://github.com/sgr-ksmt/FireTodo/blob/master/LICENSE)
+![SWIFT](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT5&label=&color=FA7343&labelColor=000000) ![SwiftUI](https://img.shields.io/badge/use-swiftui-blue.svg?style=for-the-badge) ![AMPLIFY](https://img.shields.io/badge/use-Amplify_Ios-orange.svg?style=for-the-badge) ![Xcode](https://img.shields.io/badge/Xcode-12.4-blue.svg?style=for-the-badge) [![license](https://img.shields.io/github/license/sgr-ksmt/FireTodo.svg?style=for-the-badge)](https://github.com/sgr-ksmt/FireTodo/blob/master/LICENSE)
 
 ## Feature
 
